@@ -1,0 +1,49 @@
+ body,
+ html {
+   height: 100%;
+ }
+
+ .div {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100%;
+
+ }
+
+ .example-form {
+   background-color: #EEEEEE;
+   border: solid 1px #C9C9C9;
+   border-radius: 5px;
+   padding: 2rem 1rem;
+ }
+
+ .example-full-width {
+   width: 100%;
+ }
+
+ .mx-2 {
+   margin: 0px 10px;
+ }
+
+ .d-flex-end {
+   display: flex;
+   justify-content: flex-end;
+ }
+
+ .d-block {
+   display: block;
+ }
+
+ .mat-elevation-z8 {
+   width: -webkit-fill-available;
+ }
+
+ .demo-button {
+   margin: 0px 5px;
+ }
+.text-danger {
+  display: flex;
+  margin: 10px 0px;
+  color: #c40d0d;
+}
